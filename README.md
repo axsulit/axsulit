@@ -8,6 +8,16 @@
 
 <br/>
 
+<div align="center">
+ 
+ 🔭 I’m currently working on **a habit tracker**
+ 
+ 🌱 I’m currently learning **Apache Kafka, Apache Spark, SQL, and data pipeline architecture**
+
+⚡ Fun fact **I'm a proud parent of seven adorable dogs 🐶🐾**
+
+ </div>
+
 <!--
 **axsulit/axsulit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

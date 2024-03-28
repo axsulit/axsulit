@@ -10,13 +10,22 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a habit tracker**
- 
- 🌱 I’m currently learning **Apache Kafka, Apache Spark, SQL, and data pipeline architecture**
+🔭 Working on **a data pipeline to analyze Spotify user habits using the Spotify API**
+
+🌱 Learning **Apache Kafka, Apache Spark, SQL, and data pipeline architecture**
 
 ⚡ Fun fact **I'm a proud parent of seven adorable dogs 🐶🐾**
 
  </div>
+
+<div align="center"> 
+  <a href="mailto:annegabriellesulit@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/annesulit" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
 
 <!--
 **axsulit/axsulit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

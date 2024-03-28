@@ -27,38 +27,23 @@
   </a>
 </div>
 
+<br/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
+
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql,html,css,javascript,nextjs,flask,mongodb,firebase" />
     <img src="https://skillicons.dev/icons?i=github,vscode,git,figma" /><br>
 </div>
 
 <br/>
-<hr/>
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
+
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com?user=axsulit&theme=transparent&border_radius=5.5&card_width=500px" alt="streak stats"/>
   <br>
   <br>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axsulit&layout=compact&border_radius=5.5&theme=transparent&hide=jupyter%20notebook" alt="top langs" />
 </div>
-
-<br/><br/>
-
-<!--
-**axsulit/axsulit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
+<br/>

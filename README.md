@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anne+Sulit!;" />
 </h1>
 
-<h3 align="center">A passionate aspiring data engineer from the Philippines 🇵🇭</h3>
+<h3 align="center">An aspiring data engineer from the Philippines 🇵🇭</h3>
 
 <br/>
 
@@ -41,7 +41,7 @@
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com?user=axsulit&theme=transparent&hide_border=true&border_radius=5.5&card_width=500" alt="streak stats"/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axsulit" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axsulit&layout=compact" alt="top langs" />
 </div>
 
 <br/><br/>

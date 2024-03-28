@@ -40,9 +40,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com?user=axsulit&theme=transparent&hide_border=true&border_radius=5.5&card_width=500" alt="streak stats"/>
+  <img width=390 src="https://streak-stats.demolab.com?user=axsulit&theme=transparent&border_radius=5.5&card_width=500" alt="streak stats"/>
   <br>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axsulit&layout=compact&theme=transparent" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axsulit&layout=compact&border_radius=5.5&theme=transparent&card_width=500" alt="top langs" />
 </div>
 
 <br/><br/>

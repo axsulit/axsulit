@@ -41,7 +41,8 @@
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com?user=axsulit&theme=transparent&hide_border=true&border_radius=5.5&card_width=500" alt="streak stats"/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axsulit&layout=compact" alt="top langs" />
+  <br>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axsulit&layout=compact&theme=transparent" alt="top langs" />
 </div>
 
 <br/><br/>

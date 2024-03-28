@@ -10,9 +10,9 @@
 
 <div align="center">
  
-🔭 Working on **a data pipeline to analyze Spotify user habits using the Spotify API**
+🔭 I'm currently working on **a data pipeline to analyze Spotify user habits using the Spotify API**
 
-🌱 Learning **Apache Kafka, Apache Spark, SQL, and data pipeline architecture**
+🌱 I'm currently learning **Apache Kafka, Apache Spark, SQL, and data pipeline architecture**
 
 ⚡ Fun fact **I'm a proud parent of seven adorable dogs 🐶🐾**
 
@@ -25,6 +25,13 @@
   <a href="https://linkedin.com/in/annesulit" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+</div>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,,mysql,html,css,javascript,nextjs,flask,mongodb,firebase" />
+    <img src="https://skillicons.dev/icons?i=github,vscode,,git,github,figma" /><br>
 </div>
 
 <!--

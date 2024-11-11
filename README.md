@@ -12,9 +12,9 @@
  
 🔭 I'm currently working on **a data pipeline to analyze Spotify user habits using the Spotify API**
 
-🌱 I'm currently learning **Apache Kafka, Apache Spark, SQL, and data pipeline architecture**
+🌱 I'm currently preparing for the **AWS Cloud Practitioner Certification**
 
-⚡ Fun fact **I'm a proud parent of seven adorable dogs 🐶🐾**
+⚡ Fun fact **I'm a proud parent of three adorable dogs 🐶🐾**
 
  </div>
 

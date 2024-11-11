@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anne+Sulit!;" />
 </h1>
 
-<h3 align="center">An aspiring data engineer from the Philippines 🇵🇭</h3>
+<h3 align="center">A Software Engineer from the Philippines 🇵🇭</h3>
 
 <br/>
 
@@ -35,8 +35,10 @@
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql,html,css,javascript,nextjs,flask,mongodb,firebase" />
-    <img src="https://skillicons.dev/icons?i=github,vercel,vscode,git,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=python,fastapi,java,kotlin,flutter,c,cpp" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,express,tailwind,html,css,javascript,typescript" />
+    <img src="https://skillicons.dev/icons?i=mysql,nosql,postgresql,mongodb,firebase,notion,postman" />
+    <img src="https://skillicons.dev/icons?i=aws,docker,git,vercel,vscode,figma" /><br>
 </div>
 
 <br/>

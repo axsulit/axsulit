@@ -35,10 +35,10 @@
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,java,kotlin,flutter,c,cpp" /> <br>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,express,tailwind,html,css,javascript,typescript" /> <br>
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,notion,postman" /> <br>
-    <img src="https://skillicons.dev/icons?i=aws,docker,git,vercel,vscode,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=python,fastapi,java,kotlin,flutter" /> <br>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,javascript,typescript" /> <br>
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,postman" /> <br>
+    <img src="https://skillicons.dev/icons?i=docker,git,vercel,vscode" /><br>
 </div>
 
 <br/>
